@@ -1,0 +1,49 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Node modules (if you add Node.js later)
+node_modules/
+
+# Build files (if you add build process)
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Images backup (keep originals safe)
+*.psd
+*.ai
+*.sketch
+
